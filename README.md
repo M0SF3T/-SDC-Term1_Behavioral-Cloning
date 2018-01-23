@@ -1,6 +1,6 @@
 ## Behaviorial Cloning Project
 
-<img src="Images/test_image_1.jpg" width="240" alt="Combined Image: />
+<img src="Images/test_image_1.jpg" width="240" alt="Combined Image" />
 
 Overview
 ---
